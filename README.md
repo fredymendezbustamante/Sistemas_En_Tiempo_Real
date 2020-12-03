@@ -32,7 +32,7 @@ Después de iniciar nuestra variable input con un valor diferente a cero, este v
 
 En esta imagen podemos observar cuando se le pide al usuario que: "ingrese pin"
 
-![Bienvenido_ingresepin](https://github.com/fredymendezbustamante/Sistemas-en-Tiempo-Real/blob/main/Bienvenido_ingresepin.jpeg?raw=true "Optional Title") 
+![Bienvenido_ingresepin](https://github.com/fredymendezbustamante/Sistemas_En_Tiempo_Real/blob/main/Bienvenido_ingresepin.jpeg?raw=true "Optional Title") 
 
 En esta imagen podemos observar que esta encendido el led, rojo el cual indica que la caja fuerte está cerrada.
 
