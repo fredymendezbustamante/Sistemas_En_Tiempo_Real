@@ -45,7 +45,7 @@ En esta imagen podemos observar que esta encendido el led, ver el cual indica qu
 
 
 # Funcionamiento de la caja fuerte.
-![Caja_fuerte](https://github.com/fredymendezbustamante/Sistemas-en-Tiempo-Real/blob/main/Caja_fuerte.gif?raw=true)
+![Caja_fuerte](https://github.com/fredymendezbustamante/Sistemas_En_Tiempo_Real/blob/main/Caja_fuerte.gif?raw=true)
 
 
 
