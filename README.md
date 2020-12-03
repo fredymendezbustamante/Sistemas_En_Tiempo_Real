@@ -36,7 +36,7 @@ En esta imagen podemos observar cuando se le pide al usuario que: "ingrese pin"
 
 En esta imagen podemos observar que esta encendido el led, rojo el cual indica que la caja fuerte está cerrada.
 
-![Led_Rojo](https://github.com/fredymendezbustamante/Sistemas-en-Tiempo-Real/blob/main/Led_Rojo.jpeg?raw=true "Optional Title")
+![Led_Rojo](https://github.com/fredymendezbustamante/Sistemas_En_Tiempo_Real/blob/main/Led_Rojo.jpeg?raw=true "Optional Title")
 
 
 En esta imagen podemos observar que esta encendido el led, ver el cual indica que la caja fuerte está abierta.
